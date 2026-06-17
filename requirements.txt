@@ -1,0 +1,8 @@
+# TrendRadar - 第一版依赖
+streamlit>=1.30.0
+requests>=2.31.0
+pandas>=2.1.0
+sqlalchemy>=2.0.0
+plotly>=5.18.0
+python-dotenv>=1.0.0
+pytest>=7.4.0
