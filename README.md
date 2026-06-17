@@ -226,19 +226,19 @@ python -m tests.test_agent
 
 ### 首页与分析设置
 
-![首页与分析设置](docs/images/home.png)
+![Home](https://raw.githubusercontent.com/cuicui6402/trendradar-ai-intelligence/main/docs/images/home.png)
 
 ### 趋势评分与排行榜
 
-![趋势评分与排行榜](docs/images/result.png)
+![Result](https://raw.githubusercontent.com/cuicui6402/trendradar-ai-intelligence/main/docs/images/result.png)
 
 ### AI 趋势报告预览
 
-![AI趋势报告预览](docs/images/report.png)
+![Report](https://raw.githubusercontent.com/cuicui6402/trendradar-ai-intelligence/main/docs/images/report.png)
 
 ### 历史记录回看
 
-![历史记录回看](docs/images/history.png)
+![History](https://raw.githubusercontent.com/cuicui6402/trendradar-ai-intelligence/main/docs/images/history.png)
 
 ## 项目亮点
 
