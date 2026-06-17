@@ -226,27 +226,19 @@ python -m tests.test_agent
 
 ### 首页与分析设置
 
-![首页截图](docs/images/home.png)
-
-> 截图占位：部署后替换为 `docs/images/home.png`，展示关键词输入框、项目说明卡片和侧边栏。
+![首页与分析设置](docs/images/home.png)
 
 ### 趋势评分与排行榜
 
-![分析结果截图](docs/images/result.png)
-
-> 截图占位：部署后替换为 `docs/images/result.png`，展示 KPI 指标卡、GitHub/Hacker News 表格和趋势评分柱状图。
+![趋势评分与排行榜](docs/images/result.png)
 
 ### AI 趋势报告预览
 
-![报告截图](docs/images/report.png)
-
-> 截图占位：部署后替换为 `docs/images/report.png`，展示生成的 AI 趋势报告内容。
+![AI趋势报告预览](docs/images/report.png)
 
 ### 历史记录回看
 
-![历史记录截图](docs/images/history.png)
-
-> 截图占位：部署后替换为 `docs/images/history.png`，展示点击历史记录后从数据库恢复的分析结果。
+![历史记录回看](docs/images/history.png)
 
 ## 项目亮点
 
